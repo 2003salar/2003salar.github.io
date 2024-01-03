@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  background-color: gainsboro;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  background-color: lightblue;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  color: white;
+}
+
+h3 {
+  color: brown;
+}
+
+table {
+  border: 2px solid rebeccapurple;
+  text-align: left;
+  width: 600px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: black;
+}
+
+th {
+  font-weight: bold;
+  color: white; 
+}
+
+.tag {
+  background-color: #FFF;
+  font-family: monospace;
+}
+
+td {
+  border-top: 1px solid rebeccapurple;
+}
+
+footer {
+  margin-top: 15px;
+  font-family: Helvetica;
+}
+
+footer span {
+  display: block;
+}
+
+footer span a {
+  text-decoration: none;
+}
+
+footer span a:visited {
+  text-decoration: none;
+  color: blue;
+}
